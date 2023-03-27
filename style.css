@@ -1,0 +1,25 @@
+body
+{
+font-family:sans-serif;
+background-image:url('../images/bg.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+font-size:larger;
+}
+i{
+color:#005e9c;
+}
+input
+{
+background-color:#84cfef;
+padding:10px 25px;
+border:5px;
+border-radius:7px;
+color:black;
+cursor:pointer;
+}
+input:hover
+{
+background-color:#3cc5ff;
+}
